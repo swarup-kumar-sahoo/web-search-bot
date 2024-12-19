@@ -1,0 +1,1 @@
+The bot you've built is a Custom Search Telegram Bot designed to perform Google searches and provide detailed information to users directly within Telegram.

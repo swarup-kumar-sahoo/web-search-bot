@@ -1,0 +1,4 @@
+1. Enter your bot token.
+2. Enter google cloud console search api.
+3. Enter google custom search api.
+4. Open terminal and write ' py telegram_group_search_bot.py ' to run the bot.
