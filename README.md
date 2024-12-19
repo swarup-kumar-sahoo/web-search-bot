@@ -4,4 +4,5 @@ Google Search Bot is a [Telegram bot](https://core.telegram.org/bots) project th
 
 ## Screenshot
 
-![Screenshot](screenshot.png)
+![kk](https://github.com/user-attachments/assets/18051bb1-d70f-4876-b6ec-9258e780b80b)
+
